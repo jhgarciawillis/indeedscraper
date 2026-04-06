@@ -1,0 +1,7 @@
+selenium
+undetected-chromedriver
+pandas
+openpyxl
+python-dotenv
+urllib3
+webdriver-manager
